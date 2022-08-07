@@ -1,4 +1,4 @@
-/*A simple code to calculate the sum of all even numbers less than a number*/
+/*A simple code to calculate the sum of all odd numbers less than a number*/
 
 #include <iostream>
 using namespace std;
